@@ -1,0 +1,358 @@
+{
+  "providerName": "Home Cinema",
+  "language": "en-US",
+  "lastUpdated": "2018-12-12T18:12:32.125Z",
+  "movies": [
+    {
+      "id": "decbe34b64ea4ca281dc09997d0f23fd",
+      "title": "Sita Sings the Blues",
+      "shortDescription": "Sita is a goddess separated from her beloved Lord and husband Rama. Nina is an animator whose husband moves to India, then dumps her by email.",
+      "thumbnail": "https://drive.google.com/uc?id=1oWDIgn4Ky5R42SZuggySct6bIIwyIKh_",
+      "genres": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "tags": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "releaseDate": "2008-06-29",
+      "content": {
+        "dateAdded": "2018-12-12T16:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4891,
+        "adBreaks": [
+          "00:00:00",
+          "01:21:31"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800301.us.archive.org/2/items/Sita_Sings_the_Blues/Sita_Sings_the_Blues_small.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6c9d0951d6d74229afe4adf972b278dd",
+      "title": "Dressed To Kill",
+      "shortDescription": "Aka 'Sherlock Holmes in Dressed To Kill' - features Basil Rathbone as Sherlock Holmes.",
+      "thumbnail": "https://drive.google.com/uc?id=1f5N1xH7xKsungo3T6KYJsF7tjdNJ2OId",
+      "genres": [
+        "mystery"
+      ],
+      "tags": [
+        "mystery"
+      ],
+      "releaseDate": "1946-03-21",
+      "content": {
+        "dateAdded": "2018-12-12T16:12:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4290,
+        "adBreaks": [
+          "00:00:00",
+          "01:11:30"
+        ],
+        "videos": [
+          {
+            "url": "https://ia802701.us.archive.org/28/items/dressed_to_kill/dressed_to_kill_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7405a8c101ee4c9da312c426e6067044",
+      "title": "The Stranger",
+      "shortDescription": "A team of astronauts crashes on the surface of Venus. Accompanied by their robot, they explore the surface and end up destroying the Venusian God.",
+      "thumbnail": "https://drive.google.com/uc?id=1Kob3d5QlP71ieFst4qiu17nOvffdQGxd",
+      "genres": [
+        "mystery",
+        "drama"
+      ],
+      "tags": [
+        "mystery",
+        "drama"
+      ],
+      "releaseDate": "1946-06-04",
+      "content": {
+        "dateAdded": "2018-12-12T16:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 5472,
+        "adBreaks": [
+          "00:00:00",
+          "01:31:12"
+        ],
+        "videos": [
+          {
+            "url": "https://ia801406.us.archive.org/20/items/TheStranger_0/The_Stranger_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5686748268874a57a4ba3debda1619dd",
+      "title": "Sherlock Holmes and the Secret Weapon",
+      "shortDescription": "Based on the Sir Authur Conan Doyle story \"The Dancing Men\", Sherlock Holmes and Dr. Watson are placed in WWII europe to help protect a scientist and his invention from the Nazis.",
+      "thumbnail": "https://drive.google.com/uc?id=1649-xpcQSjM62SqYMpnnQgS5QyVw95UI",
+      "genres": [
+        "mystery",
+        "crime"
+      ],
+      "tags": [
+        "mystery",
+        "crime"
+      ],
+      "releaseDate": "1943-01-13",
+      "content": {
+        "dateAdded": "2018-12-12T17:14:54.431Z", 
+        "captions": [
+          
+        ],
+        "duration": 4071,
+        "adBreaks": [
+          "00:00:00",
+          "01:07:51"
+        ],
+        "videos": [
+          {
+            "url": "https://ia801400.us.archive.org/26/items/secret_weapon/sherlock_holmes_and_the_secret_weapon_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "37d290e03d894135b07c5e514cbad72d",
+      "title": "Mr. Robinson Crusoe",
+      "shortDescription": "While cruising the South Seas with friends aboard a sailing yacht, it is wagered that Steve can not survive on a desert isle without the accouterments of civilization.",
+      "thumbnail": "https://drive.google.com/uc?id=1C4Ff8Murg6Q5eNxh-oFVA98NPJ9c5Thw",
+      "genres": [
+        "adventure",
+        "comedy"
+      ],
+      "tags": [
+        "adventure",
+        "comedy"
+      ],
+      "releaseDate": "1932-01-28",
+      "content": {
+        "dateAdded": "2018-12-12T17:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4230,
+        "adBreaks": [
+          "00:00:00",
+          "01:10:30"
+        ],
+        "videos": [
+          {
+            "url": "https://ia801408.us.archive.org/16/items/mr_robinson_crusoe/video_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "42137542fa884b97a2a72cb356ae21b9",
+      "title": "Mclintock",
+      "shortDescription": "This great comedy western stars John Wayne,Maureen O'Hara,Patrick Wayne, Stefanie Powers,Chill Wills, and Strother Marten. There is a hilarious mudhole fight scene at the end.",
+      "thumbnail": "https://drive.google.com/uc?id=1ltyoIgpc5G6dlcKXjji2tMXZnInhPU__",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "comedy",
+        "western"
+      ],
+      "releaseDate": "1963-07-02",
+      "content": {
+        "dateAdded": "2018-12-12T17:16:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 7595,
+        "adBreaks": [
+          "00:00:00",
+          "02:06:35"
+        ],
+        "videos": [
+          {
+            "url": "https://ia801409.us.archive.org/32/items/Mclintock.avi/Mclintock_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ec4711dc886464fa16001c1962904f8",
+      "title": "Horror Express",
+      "shortDescription": "An English anthropologist (Christopher Lee) has discovered a frozen monster in the frozen wastes of Manchuria which he believes may be the Missing Link.",
+      "thumbnail": "https://drive.google.com/uc?id=1DB9YZwzAmeU72S2fUT3xza3gNcN5ixIo",
+      "genres": [
+        "mystery",
+        "horror",
+        "thriller"
+      ],
+      "tags": [
+        "mystery",
+        "horror",
+        "thriller"
+      ],
+      "releaseDate": "1972-09-17",
+      "content": {
+        "dateAdded": "2018-12-12T16:18:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 5223,
+        "adBreaks": [
+          "00:00:00",
+          "01:27:03"
+        ],
+        "videos": [
+          {
+            "url": "https://ia902604.us.archive.org/0/items/horror_express_ipod/horror_express_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2c4e8ea1ad2f4a8d9d244f5dd4cc47b6",
+      "title": "Carnival of Souls",
+      "shortDescription": "Mary Henry is enjoying the day by riding around with two friends but everything goes wrong when challenged to a drag race and their car gets forced off of a bridge.",
+      "thumbnail": "https://drive.google.com/uc?id=1avTyD03gBIqUCW3JxPXeiut7tLvtBfr1",
+      "genres": [
+        "horror",
+        "thriller"
+      ],
+      "tags": [
+        "horror",
+        "thriller"
+      ],
+      "releaseDate": "1962-08-13",
+      "content": {
+        "dateAdded": "2018-12-12T17:19:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4979,
+        "adBreaks": [
+          "00:00:00",
+          "01:22:59"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800301.us.archive.org/8/items/CarnivalofSouls/CarnivalOfSouls_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a4d29aebf55e499c968ce02469859637",
+      "title": "Tarzan and the Green Goddess",
+      "shortDescription": "The New Adventures of Tarzan is a 1935 American film serial in 12 chapters starring Bruce Bennett.",
+      "thumbnail": "https://drive.google.com/uc?id=1ngtI-VFEWtbHr6UhrOZJkPV__c3wZR0H",
+      "genres": [
+        "adventure"
+      ],
+      "tags": [
+        "adventure"
+      ],
+      "releaseDate": "1938-04-30",
+      "content": {
+        "dateAdded": "2018-12-12T17:24:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4045,
+        "adBreaks": [
+          "00:00:00",
+          "01:07:25"
+        ],
+        "videos": [
+          {
+            "url": "https://ia902309.us.archive.org/21/items/tarzan_and_the_green_goddess/tarzan_and_the_green_goddess_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "69ce40b268fa4766aa1612131aa74898",
+      "title": "Quicksand",
+      "shortDescription": "Quicksand is a 1950 film noir starring Mickey Rooney and Peter Lorre in a story about a garage mechanic's descent into crime. ",
+      "thumbnail": "https://drive.google.com/uc?id=1oHCkgVQBWPlEffap6FjM8UqqoDmP-ktQ",
+      "genres": [
+        "crime"
+      ],
+      "tags": [
+        "crime"
+      ],
+      "releaseDate": "1950-11-05",
+      "content": {
+        "dateAdded": "2018-12-12T17:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4742,
+        "adBreaks": [
+          "00:00:00",
+          "01:19:02"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800203.us.archive.org/21/items/Quicksand_clear/Quicksand.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "name": "All movies",
+      "itemIds": [
+        "69ce40b268fa4766aa1612131aa74898",
+        "a4d29aebf55e499c968ce02469859637",
+        "7ec4711dc886464fa16001c1962904f8",
+        "42137542fa884b97a2a72cb356ae21b9",
+        "7405a8c101ee4c9da312c426e6067044",
+        "6c9d0951d6d74229afe4adf972b278dd",
+        "decbe34b64ea4ca281dc09997d0f23fd",
+        "5686748268874a57a4ba3debda1619dd",
+        "37d290e03d894135b07c5e514cbad72d",
+        "2c4e8ea1ad2f4a8d9d244f5dd4cc47b6"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "All movies",
+      "playlistName": "All movies",
+      "order": "manual"
+    }
+  ]
+}

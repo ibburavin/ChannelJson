@@ -1,0 +1,342 @@
+{
+  "providerName": "Cartoons Channel",
+  "language": "en-US",
+  "lastUpdated": "2018-10-06T18:12:32.125Z",
+  "shortFormVideos": [
+    {
+      "id": "ecbe34b64ea4ca281dc09997d0f23fd1",
+      "title": "Popeye for President",
+      "shortDescription": "Popeye and Bluto are both running for president. They are tied with exactly the same number of votes, but Miss Olive Oyl has yet to cast her ballot. Which candidate will be able to impress her the most",
+      "thumbnail": "https://drive.google.com/uc?id=1cYM2MvsMZSYRH2xZhxyDeRJnDzMet3aa",
+      "genres": [
+        "children"
+      ],
+      "tags": [
+        "children",
+        "comedy"
+      ],
+      "releaseDate": "1956-07-04",
+      "content": {
+        "dateAdded": "2015-12-10T14:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 370,
+        "adBreaks": [
+          "00:00:00",
+          "00:06:10"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800208.us.archive.org/4/items/Popeye_forPresident/Popeye_forPresident_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c9d0951d6d74229afe4adf972b278dd2",
+      "title": "Woody Woodpecker in Pantry Panic",
+      "shortDescription": "Weatherby Groundhog predicts a cold winter and advises all the birds to fly south. But Woody Woodpecker decides to stay, and nearly starves.",
+      "thumbnail": "https://drive.google.com/uc?id=1kVmsdsCAaWJUDvppJMBYI_CKkk2kk_VL",
+      "genres": [
+        "children"
+      ],
+      "tags": [
+        "children"
+      ],
+      "releaseDate": "1941-11-24",
+      "content": {
+        "dateAdded": "2018-12-10T14:15:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 411,
+        "adBreaks": [
+          "00:00:00",
+          "00:06:51"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800302.us.archive.org/31/items/woody_woodpecker_pantry_panic/woody_woodpecker_pantry_panic_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "405a8c101ee4c9da312c426e60670443",
+      "title": "Betty Boop: Minnie The Moocher",
+      "shortDescription": "Minnie the Moocher (1932) is a Betty Boop cartoon produced by Fleischer Studios and released by Paramount Pictures.",
+      "thumbnail": "https://drive.google.com/uc?id=1Ujtc_tBR2vb7-mE_5qhlQkZ38MtLQstr",
+      "genres": [
+        "children"
+      ],
+      "tags": [
+        "children"
+      ],
+      "releaseDate": "1932-04-04",
+      "content": {
+        "dateAdded": "2018-12-10T15:57:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 466,
+        "adBreaks": [
+          "00:00:00",
+          "00:07:46"
+        ],
+        "videos": [
+          {
+            "url": "https://ia902607.us.archive.org/17/items/bb_minnie_the_moocher/bb_minnie_the_moocher_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "686748268874a57a4ba3debda1619dd4",
+      "title": "Popeye the Sailor Meets Ali Baba's Forty Thieves",
+      "shortDescription": "The classic Arabian adventure, adapted Popeye and Olive Oyl. Cartoon originally produced in 1937 by Fleischer Studios.",
+      "thumbnail": "https://drive.google.com/uc?id=1aiB4e8OVvpsu7GCzEooRzJBXjuSi9R0S",
+      "genres": [
+        "children"
+      ],
+      "tags": [
+        "children"
+      ],
+      "releaseDate": "1937-07-12",
+      "content": {
+        "dateAdded": "2018-12-10T15:57:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 1018,
+        "adBreaks": [
+          "00:00:00",
+          "00:16:58"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800306.us.archive.org/35/items/PopeyeAliBaba/PopeyeAliBaba_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7d290e03d894135b07c5e514cbad72d5",
+      "title": "Popeye the Sailor meets Sinbad the Sailor",
+      "shortDescription": "The classic tale of Sinbad the Sailor, adapted for Popeye and Olive. Featuring memorable appearances by Wimpy, Olive, and the singing two-headed monster.",
+      "thumbnail": "https://drive.google.com/uc?id=1P8lPs8gN4mSGAglM_rplO57lZ-WuiQF4",
+      "genres": [
+        "children"
+      ],
+      "tags": [
+        "children"
+      ],
+      "releaseDate": "1936-05-28",
+      "content": {
+        "dateAdded": "2018-12-10T17:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 966,
+        "adBreaks": [
+          "00:00:00",
+          "00:16:06"
+        ],
+        "videos": [
+          {
+            "url": "http://publicdomainmovie.net/movie.php?id=Popeye_meetsSinbadtheSailor&type=.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2137542fa884b97a2a72cb356ae21b96",
+      "title": "Superman: The Mechanical Monsters",
+      "shortDescription": "A mad scientist unleashes robots to rob banks and loot museums. Superman saves the day. Animation by Steve Muffati and George Germanetti.",
+      "thumbnail": "https://drive.google.com/uc?id=1R2wzniFxA4_5utInJM4iFNPdgGmnXCIV",
+      "genres": [
+        "children"
+      ],
+      "tags": [
+        "children"
+      ],
+      "releaseDate": "1941-07-02",
+      "content": {
+        "dateAdded": "2018-12-10T18:02:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 614,
+        "adBreaks": [
+          "00:00:00",
+          "00:10:14"
+        ],
+        "videos": [
+          {
+            "url": "https://ia801404.us.archive.org/6/items/superman_the_mechanical_monsters/superman_the_mechanical_monsters_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ec4711dc886464fa16001c1962904f87",
+      "title": "Patriotic Popeye",
+      "shortDescription": "Popeye's nephews want to play with fireworks on July 4th, but Popeye tries to dissuade them. They manage to light some off and get into trouble. Popeye saves the day.",
+      "thumbnail": "https://drive.google.com/uc?id=1PXbL8pssDftdazyrlQNGnlrVJmnoCMfM",
+      "genres": [
+        "children"
+      ],
+      "tags": [
+        "children"
+      ],
+      "releaseDate": "1957-08-27",
+      "content": {
+        "dateAdded": "2018-12-10T18:04:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 363,
+        "adBreaks": [
+          "00:00:00",
+          "00:06:03"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800204.us.archive.org/34/items/popeye_patriotic_popeye/popeye_patriotic_popeye_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8137542fa884b9799jkg72cb356ae218",
+      "title": "Mighty Mouse: Wolf! Wolf!",
+      "shortDescription": "Little Bo Peep and her free-range sheep are threatened when Wily and Jazzy wolves attempt to capture them. But Mighty Mouse saves the day",
+      "thumbnail": "https://drive.google.com/uc?id=1M35Q5bLBEtwxrv9mY8mfF3rXEumuXklR",
+      "genres": [
+        "children"
+      ],
+      "tags": [
+        "children"
+      ],
+      "releaseDate": "1944-07-02",
+      "content": {
+        "dateAdded": "2018-12-11T14:02:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 371,
+        "adBreaks": [
+          "00:00:00",
+          "00:06:11"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800504.us.archive.org/1/items/mighty_mouse_wolf_wolf/mighty_mouse_wolf_wolf_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9137542fa8878jh99jkg72cb356ae219",
+      "title": "Betty Boop: Snow White",
+      "shortDescription": "Little Bo Peep and her free-range sheep are threatened when Wily and Jazzy wolves attempt to capture them. But Mighty Mouse saves the day",
+      "thumbnail": "https://drive.google.com/uc?id=1Cgpn9MR65nq4BTp15a8KUzmFkVAPdktl",
+      "genres": [
+        "children"
+      ],
+      "tags": [
+        "children"
+      ],
+      "releaseDate": "1933-05-08",
+      "content": {
+        "dateAdded": "2018-12-11T15:02:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 424,
+        "adBreaks": [
+          "00:00:00",
+          "00:07:04"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800300.us.archive.org/3/items/bb_snow_white/bb_snow_white_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1032fa8878jh9kg7oj45hbn6474jkh10",
+      "title": "Popeye: Cooking With Gags",
+      "shortDescription": "From The Public Domain Movie Database: Bluto plays all sorts of gags on Popeye and Olive on April Fool's Day.",
+      "thumbnail": "https://drive.google.com/uc?id=15_amfZkDRt6jK1heEdQISm3MmRC0VeZ0",
+      "genres": [
+        "children"
+      ],
+      "tags": [
+        "children"
+      ],
+      "releaseDate": "1954-11-22",
+      "content": {
+        "dateAdded": "2018-12-11T15:45:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 393,
+        "adBreaks": [
+          "00:00:00",
+          "00:06:33"
+        ],
+        "videos": [
+          {
+            "url": "https://ia802606.us.archive.org/15/items/Popeye_Cooking_With_Gags_1954/Popeye_Cookin_with_Gags_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "name": "childrens",
+      "itemIds": [
+        "ecbe34b64ea4ca281dc09997d0f23fd1",
+        "c9d0951d6d74229afe4adf972b278dd2",
+        "405a8c101ee4c9da312c426e60670443",
+        "686748268874a57a4ba3debda1619dd4",
+        "7d290e03d894135b07c5e514cbad72d5",
+        "2137542fa884b97a2a72cb356ae21b96",
+        "ec4711dc886464fa16001c1962904f87",
+        "8137542fa884b9799jkg72cb356ae218",
+        "9137542fa8878jh99jkg72cb356ae219",
+        "1032fa8878jh9kg7oj45hbn6474jkh10"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Children",
+      "playlistName": "childrens",
+      "order": "manual"
+    }
+  ]
+}

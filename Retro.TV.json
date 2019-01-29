@@ -1,0 +1,359 @@
+{
+  "providerName": "Retro.TV",
+  "language": "en-US",
+  "lastUpdated": "2016-10-06T18:12:32.125Z",
+  "movies": [
+    {
+      "id": "decbe34b64ea4ca281dc09997d0f23fd",
+      "title": "Charlie Chaplin Festival",
+      "shortDescription": "Four Chaplin shorts from 1917: The Adventurer, The Cure, Easy Street and The Immigrant, presented with music and sound effects.",
+      "thumbnail": "https://drive.google.com/uc?id=1YBPs5xAtyjnDBOrKnglWNXGxKIer_Knt",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "comedy"
+      ],
+      "releaseDate": "1917-07-04",
+      "content": {
+        "dateAdded": "2018-12-11T15:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4646,
+        "adBreaks": [
+          "00:00:00",
+          "01:17:26"
+        ],
+        "videos": [
+          {
+            "url": "https://ia902303.us.archive.org/18/items/charlie_chaplin_film_fest/charlie_chaplin_film_fest_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6c9d0951d6d74229afe4adf972b278dd",
+      "title": "His Girl Friday",
+      "shortDescription": "Hilarious romantic comedy starring Cary Grant and Rosalind Russell.",
+      "thumbnail": "https://drive.google.com/uc?id=1i9lSEG7bfEICCGD39WzFj9mLDvTFBRHc",
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "tags": [
+        "comedy",
+        "romance"
+      ],
+      "releaseDate": "1940-10-21",
+      "content": {
+        "dateAdded": "2018-12-11T15:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 5504,
+        "adBreaks": [
+          "00:00:00",
+          "01:31:44"
+        ],
+        "videos": [
+          {
+            "url": "https://ia600309.us.archive.org/5/items/his_girl_friday/his_girl_friday_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7405a8c101ee4c9da312c426e6067044",
+      "title": "My Man Godfrey",
+      "shortDescription": "Ditzy socialite with a heart of gold, Irene Bullock (Carole Lombard) finds forgotten man Godfrey Smith (William Powell) in a scavenger hunt.",
+      "thumbnail": "https://drive.google.com/uc?id=1bdqm9XY8Ad2qgFJTocq9H8iYL-htDWKX",
+      "genres": [
+        "romance",
+        "comedy"
+      ],
+      "tags": [
+        "romance"
+      ],
+      "releaseDate": "1936-04-04",
+      "content": {
+        "dateAdded": "2018-12-11T15:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 5586,
+        "adBreaks": [
+          "00:00:00",
+          "01:33:06"
+        ],
+        "videos": [
+          {
+            "url": "https://ia802606.us.archive.org/24/items/my_man_godfrey/my_man_godfrey_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5686748268874a57a4ba3debda1619dd",
+      "title": "My Favorite Brunette",
+      "shortDescription": "My Favorite Brunette is a 1947 American romantic comedy film directed by Elliott Nugent and starring Bob Hope and Dorothy Lamour.",
+      "thumbnail": "https://drive.google.com/uc?id=14fhJQQN_x0H3CSykVumBwrCqL6ufQfil",
+      "genres": [
+        "comedy",
+        "romance"
+      ],
+      "tags": [
+        "comedy",
+        "romance"
+      ],
+      "releaseDate": "1947-01-13",
+      "content": {
+        "dateAdded": "2018-12-11T15:14:54.431Z", 
+        "captions": [
+          
+        ],
+        "duration": 5212,
+        "adBreaks": [
+          "00:00:00",
+          "01:26:52"
+        ],
+        "videos": [
+          {
+            "url": "https://ia801400.us.archive.org/35/items/my_favorite_brunette/my_favorite_brunette_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "37d290e03d894135b07c5e514cbad72d",
+      "title": "Charlie Chaplin's \"The Rink\"",
+      "shortDescription": "Charlie Chaplin's 58th Film Released Dec. 04 1916 The Rink was Charlie Chaplin's 8th film for Mutual Films. It co-starred Edna Purviance, Eric Campbell, Henry Bergman and Albert Austin.",
+      "thumbnail": "https://drive.google.com/uc?id=1JkLBG_xdbpBKeUXAYCxb34Uy2saam8WE",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "comedy"
+      ],
+      "releaseDate": "1916-05-28",
+      "content": {
+        "dateAdded": "2018-12-11T15:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 1169,
+        "adBreaks": [
+          "00:00:00",
+          "00:19:29"
+        ],
+        "videos": [
+          {
+            "url": "https://ia902706.us.archive.org/4/items/CC_1916_12_04_TheRink/CC_1916_12_04_TheRink_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "42137542fa884b97a2a72cb356ae21b9",
+      "title": "Charlie Chaplin's \"The Floorwalker\"",
+      "shortDescription": "Charlie Chaplins 51st Film Released May 15 1916 The Floorwalker was Charlie Chaplin's first Mutual Film Company made in 1916.",
+      "thumbnail": "https://drive.google.com/uc?id=1jkNwVi31yduIm01uTXosjcS3FdtGKrEm",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "comedy"
+      ],
+      "releaseDate": "1916-07-02",
+      "content": {
+        "dateAdded": "2018-12-11T16:16:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 1169,
+        "adBreaks": [
+          "00:00:00",
+          "00:19:29"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800206.us.archive.org/13/items/CC_1916_05_15_TheFloorwalker/CC_1916_05_15_TheFloorwalker_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ec4711dc886464fa16001c1962904f8",
+      "title": "Meet John Doe",
+      "shortDescription": "Meet John Doe is a 1941 in film United States comedy film drama film film directed and produced by Frank Capra, and starring Gary Cooper and Barbara Stanwyck.",
+      "thumbnail": "https://drive.google.com/uc?id=1YMaRLTLYxXgvE6ZNQVu2UJQqkKXoca0A",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "comedy"
+      ],
+      "releaseDate": "1941-08-27",
+      "content": {
+        "dateAdded": "2018-12-11T16:18:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 7371,
+        "adBreaks": [
+          "00:00:00",
+          "02:02:51"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800503.us.archive.org/29/items/meet_john_doe/meet_john_doe_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2c4e8ea1ad2f4a8d9d244f5dd4cc47b6",
+      "title": "Charlie Chaplin's \"The Cure\"",
+      "shortDescription": "Charlie Chaplin's 60th Film Released April 16 1917 The Cure is a short comedy film written and directed by Charlie Chaplin.",
+      "thumbnail": "https://drive.google.com/uc?id=1efp9QtG3uoBWRoCrelsSasvAQ7LdEdMV",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "comedy"
+      ],
+      "releaseDate": "1917-08-13",
+      "content": {
+        "dateAdded": "2018-12-11T16:19:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 1147,
+        "adBreaks": [
+          "00:00:00",
+          "00:19:07"
+        ],
+        "videos": [
+          {
+            "url": "https://ia801401.us.archive.org/34/items/CC_1917_04_16_TheCure/CC_1917_04_16_TheCure_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a4d29aebf55e499c968ce02469859637",
+      "title": "The Flying Deuces",
+      "shortDescription": "This was the first comedy that Laurel and Hardy starred in without producer Hal Roach, although they had previously been guest stars in four MGM movies.",
+      "thumbnail": "https://drive.google.com/uc?id=16bwlZSV4xglZ5bewW_ck4NteJsyc71Yb",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "comedy"
+      ],
+      "releaseDate": "1939-04-30",
+      "content": {
+        "dateAdded": "2018-12-11T16:24:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4077,
+        "adBreaks": [
+          "00:00:00",
+          "01:07:57"
+        ],
+        "videos": [
+          {
+            "url": "https://ia600202.us.archive.org/20/items/TheFlyingDeuces/The_Flying_Deuces_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "69ce40b268fa4766aa1612131aa74898",
+      "title": "Charlie Chaplin's \"One A.M.\"",
+      "shortDescription": "The Cult Movie network has it all, 24 hours a day, seven days a week. Watch the cult films you can't find anywhere else on television - if you're into that sort of thing.",
+      "thumbnail": "https://drive.google.com/uc?id=18VYObFpTWCCh3-M9JvkTPoufth8AcIZb",
+      "genres": [
+        "comedy"
+      ],
+      "tags": [
+        "comedy"
+      ],
+      "releaseDate": "1916-11-05",
+      "content": {
+        "dateAdded": "2018-12-11T17:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 1008,
+        "adBreaks": [
+          "00:00:00",
+          "00:16:48"
+        ],
+        "videos": [
+          {
+            "url": "https://ia600201.us.archive.org/24/items/CC_1916_08_07_One_A_M/CC_1916_08_07_One_A_M_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "name": "romance",
+      "itemIds": [
+        "6c9d0951d6d74229afe4adf972b278dd",
+        "7405a8c101ee4c9da312c426e6067044",
+        "5686748268874a57a4ba3debda1619dd"
+      ]
+    },
+    {
+      "name": "comedy",
+      "itemIds": [
+        "decbe34b64ea4ca281dc09997d0f23fd",
+        "6c9d0951d6d74229afe4adf972b278dd",
+        "7405a8c101ee4c9da312c426e6067044",
+        "5686748268874a57a4ba3debda1619dd",
+        "37d290e03d894135b07c5e514cbad72d",
+        "42137542fa884b97a2a72cb356ae21b9",
+        "7ec4711dc886464fa16001c1962904f8",
+        "a4d29aebf55e499c968ce02469859637",
+        "69ce40b268fa4766aa1612131aa74898",
+        "2c4e8ea1ad2f4a8d9d244f5dd4cc47b6"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Romance",
+      "playlistName": "romance",
+      "order": "manual"
+    },
+    {
+      "name": "Comedy",
+      "playlistName": "comedy",
+      "order": "manual"
+    }
+  ]
+}

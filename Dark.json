@@ -1,0 +1,384 @@
+{
+  "providerName": "Dark",
+  "language": "en-US",
+  "lastUpdated": "2018-12-12T18:12:32.125Z",
+  "movies": [
+    {
+      "id": "decbe34b64ea4ca281dc09997d0f23fd",
+      "title": "Night of the Living Dead",
+      "shortDescription": "In this horror film, strangers hold up in a rural Pennsylvania farmhouse and battle constant attacks from dead locals who have been brought back to life by mysterious radiation.",
+      "thumbnail": "https://drive.google.com/uc?id=1p6mTwXXr80D9yDmsauS2Kz9ZLyU_sNhb",
+      "genres": [
+        "horror"
+      ],
+      "tags": [
+        "horror"
+      ],
+      "releaseDate": "1968-10-01",
+      "content": {
+        "dateAdded": "2018-12-12T10:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 5717,
+        "adBreaks": [
+          "00:00:00",
+          "01:35:17"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800300.us.archive.org/1/items/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6c9d0951d6d74229afe4adf972b278dd",
+      "title": "Plan 9 from Outer Space",
+      "shortDescription": "Can your heart stand the shocking facts about grave robbers from outer space? That's the question on the lips of the narrator of this tale about flying saucers, zombies and cardboard tombstones.",
+      "thumbnail": "https://drive.google.com/uc?id=1g0BIc2gS6yjqtU-MsBDvAbOGyV0uYFS7",
+      "genres": [
+        "horror",
+        "fantasy"
+      ],
+      "tags": [
+        "horror",
+        "fantasy"
+      ],
+      "releaseDate": "1959-10-21",
+      "content": {
+        "dateAdded": "2018-12-12T15:12:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4701,
+        "adBreaks": [
+          "00:00:00",
+          "01:18:21"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800206.us.archive.org/12/items/Plan_9_from_Outer_Space_1959/Plan_9_from_Outer_Space_1959_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7405a8c101ee4c9da312c426e6067044",
+      "title": "Voyage to the Planet of Prehistoric Women",
+      "shortDescription": "A team of astronauts crashes on the surface of Venus. Accompanied by their robot, they explore the surface and end up destroying the Venusian God.",
+      "thumbnail": "https://drive.google.com/uc?id=1cBYDz2ip1As8RGOB1VE8gTI8lpUFbjbP",
+      "genres": [
+        "fantasy"
+      ],
+      "tags": [
+        "fantasy"
+      ],
+      "releaseDate": "1967-04-04",
+      "content": {
+        "dateAdded": "2018-12-12T15:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4775,
+        "adBreaks": [
+          "00:00:00",
+          "01:19:35"
+        ],
+        "videos": [
+          {
+            "url": "https://ia801400.us.archive.org/18/items/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5686748268874a57a4ba3debda1619dd",
+      "title": "Bloody Pit of Horror",
+      "shortDescription": "A group of models and cameramen go to a castle to shoot covers for horror novels where they're captured and tortured by the castle's owner, the Crimson Executioner.",
+      "thumbnail": "https://drive.google.com/uc?id=1irhw10zq7cXZHcNYpAla3tVgYcta8ILU",
+      "genres": [
+        "horror"
+      ],
+      "tags": [
+        "horror"
+      ],
+      "releaseDate": "1965-01-13",
+      "content": {
+        "dateAdded": "2018-12-12T15:14:54.431Z", 
+        "captions": [
+          
+        ],
+        "duration": 4943,
+        "adBreaks": [
+          "00:00:00",
+          "01:22:23"
+        ],
+        "videos": [
+          {
+            "url": "https://ia600301.us.archive.org/8/items/BloodyPitOfHorror/BloodyPitOfHorror.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "37d290e03d894135b07c5e514cbad72d",
+      "title": "Lady Frankenstein",
+      "shortDescription": "When Dr. Frankenstein is killed by a monster he created, his daughter and his lab assistant Marshall continue his experiments.",
+      "thumbnail": "https://drive.google.com/uc?id=1Vrx-5oivrmwZANgMCgiXSf_j6bA6WzvN",
+      "genres": [
+        "horror"
+      ],
+      "tags": [
+        "horror"
+      ],
+      "releaseDate": "1971-05-28",
+      "content": {
+        "dateAdded": "2018-12-12T15:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 5020,
+        "adBreaks": [
+          "00:00:00",
+          "01:23:40"
+        ],
+        "videos": [
+          {
+            "url": "https://ia802304.us.archive.org/7/items/Lady_Frankenstein/Lady_Frankenstein_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "42137542fa884b97a2a72cb356ae21b9",
+      "title": "The Lost World",
+      "shortDescription": "The first film adaptation of Sir Arthur Conan Doyle's classic novel about a land where prehistoric creatures still roam.",
+      "thumbnail": "https://drive.google.com/uc?id=1_vROH2bPIJS-1o4idj54f8L6WVtuf-Ph",
+      "genres": [
+        "fantasy",
+        "adventure"
+      ],
+      "tags": [
+        "fantasy",
+        "adventure"
+      ],
+      "releaseDate": "1925-07-02",
+      "content": {
+        "dateAdded": "2018-12-12T16:16:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4085,
+        "adBreaks": [
+          "00:00:00",
+          "01:08:05"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800301.us.archive.org/28/items/lost_world/lost_world_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ec4711dc886464fa16001c1962904f8",
+      "title": "Invasion of the Bee girls",
+      "shortDescription": "This one's about strange women who love their men to death, literally! Maybe, research facility doing top secret experiments might have something to do with the suspicious deaths.",
+      "thumbnail": "https://drive.google.com/uc?id=1b79Wc2yqnXEujc0wSKiP5lPWg7y9iRNH",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "tags": [
+        "fantasy",
+        "horror"
+      ],
+      "releaseDate": "1973-08-27",
+      "content": {
+        "dateAdded": "2018-12-12T16:18:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 5188,
+        "adBreaks": [
+          "00:00:00",
+          "01:26:28"
+        ],
+        "videos": [
+          {
+            "url": "https://ia600500.us.archive.org/16/items/InvasionOfTheBeeGirls/InvasionOfTheBeeGirls_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2c4e8ea1ad2f4a8d9d244f5dd4cc47b6",
+      "title": "The Phantom of the Opera",
+      "shortDescription": "At the Opera of Paris, a mysterious phantom threatens a famous lyric singer, Carlotta and thus forces her to give up her role (Marguerite in Faust) for unknown Christine Daae.",
+      "thumbnail": "https://drive.google.com/uc?id=11_sE9OBiawGlCUPTg7210NB84tqZn0Oj",
+      "genres": [
+        "horror",
+        "drama"
+      ],
+      "tags": [
+        "horror",
+        "drama"
+      ],
+      "releaseDate": "1925-08-13",
+      "content": {
+        "dateAdded": "2018-12-12T16:19:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 6388,
+        "adBreaks": [
+          "00:00:00",
+          "01:46:28"
+        ],
+        "videos": [
+          {
+            "url": "https://ia800301.us.archive.org/21/items/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a4d29aebf55e499c968ce02469859637",
+      "title": "Das Kabinett des Doktor Caligari ( The Cabinet of Dr. Caligari )",
+      "shortDescription": "The Cabinet of Dr. Caligari is the first modern Horror Film and it influence a number of contemporary productions.",
+      "thumbnail": "https://drive.google.com/uc?id=1RJE1htD87ZCrbxzLIiZfOrJxTfI2Gdlv",
+      "genres": [
+        "fantasy",
+        "horror"
+      ],
+      "tags": [
+        "fantasy",
+        "horror"
+      ],
+      "releaseDate": "1919-04-30",
+      "content": {
+        "dateAdded": "2018-12-12T16:24:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 3061,
+        "adBreaks": [
+          "00:00:00",
+          "00:51:01"
+        ],
+        "videos": [
+          {
+            "url": "https://ia802701.us.archive.org/8/items/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari/The_Cabinet_of_Dr._Caligari_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "69ce40b268fa4766aa1612131aa74898",
+      "title": "Last Woman On Earth",
+      "shortDescription": "Last Woman on Earth (often erred to as “The Last Woman On Earth”, although appearing without the word “The” in the film's actual title-card) is a 1960 United States science-fiction film.",
+      "thumbnail": "https://drive.google.com/uc?id=1XJa_zjRB2x5QSh9lzb_hkVxhdgEAI7jI",
+      "genres": [
+        "fantasy"
+      ],
+      "tags": [
+        "fantasy"
+      ],
+      "releaseDate": "1960-11-05",
+      "content": {
+        "dateAdded": "2018-12-12T17:14:54.431Z",
+        "captions": [
+          
+        ],
+        "duration": 4320,
+        "adBreaks": [
+          "00:00:00",
+          "01:12:00"
+        ],
+        "videos": [
+          {
+            "url": "https://ia802304.us.archive.org/21/items/last_woman_on_earth1960/last_woman_on_earth1960_512kb.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "name": "All movies",
+      "itemIds": [
+        "69ce40b268fa4766aa1612131aa74898",
+        "a4d29aebf55e499c968ce02469859637",
+        "7ec4711dc886464fa16001c1962904f8",
+        "42137542fa884b97a2a72cb356ae21b9",
+        "7405a8c101ee4c9da312c426e6067044",
+        "6c9d0951d6d74229afe4adf972b278dd",
+        "decbe34b64ea4ca281dc09997d0f23fd",
+        "5686748268874a57a4ba3debda1619dd",
+        "37d290e03d894135b07c5e514cbad72d",
+        "2c4e8ea1ad2f4a8d9d244f5dd4cc47b6"
+      ]
+    },
+    {
+      "name": "horror",
+      "itemIds": [
+        "decbe34b64ea4ca281dc09997d0f23fd",
+        "6c9d0951d6d74229afe4adf972b278dd",
+        "5686748268874a57a4ba3debda1619dd",
+        "37d290e03d894135b07c5e514cbad72d",
+        "7ec4711dc886464fa16001c1962904f8",
+        "a4d29aebf55e499c968ce02469859637",
+        "2c4e8ea1ad2f4a8d9d244f5dd4cc47b6"
+      ]
+    },
+    {
+      "name": "fantasy",
+      "itemIds": [
+        "69ce40b268fa4766aa1612131aa74898",
+        "a4d29aebf55e499c968ce02469859637",
+        "7ec4711dc886464fa16001c1962904f8",
+        "42137542fa884b97a2a72cb356ae21b9",
+        "7405a8c101ee4c9da312c426e6067044",
+        "6c9d0951d6d74229afe4adf972b278dd"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "All movies",
+      "playlistName": "All movies",
+      "order": "manual"
+    },
+    {
+      "name": "Horror",
+      "playlistName": "horror",
+      "order": "manual"
+    },
+    { 
+      "name": "Fantasy",
+      "playlistName": "fantasy",
+      "order": "manual"
+    }
+  ]
+}
